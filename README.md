@@ -31,7 +31,7 @@ Antes de tudo, é necessário você instalar as dependências. Para isso basta r
 
 ```shell
 # Vai clonar a pasta do projeto para a sua máquina
-git clone https://jefferson-calmon.github.io 
+git clone https://github.com/jefferson-calmon/ecoleta.git
 
 # Vai abrir a pasta do projeto
 cd ecoleta
