@@ -77,7 +77,15 @@ Pronto!! Agora já temos o back-end e o site funcionando.
 
 ### Mobile
 
-Para você testar o app será preciso instalar um app chamado [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent). Ele irá servir como simulador para o app. 
+Para você testar o app será preciso instalar um app chamado [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent) em seu celular. Ele irá servir como simulador para o app. 
+
+Alem disso você também tera que instala o expo-cli em sua maquina. Para isso, execute o seguinte comando.
+
+```shell
+
+npm install expo-cli
+
+```
 
 Depois abra mais um terminal e execute os comandos abaixo.
 
